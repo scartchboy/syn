@@ -1,0 +1,23 @@
+{
+  "name": "Syn",
+  "short_name": "Syn",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Solutions You Need: Your Trusted IT Service Partner",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/syn-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/syn-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
